@@ -10,5 +10,5 @@ Our goal is to determine the animal species based on the image, using neural net
 We'll use the *Oregon Wildlife Dataset* as our dataset and train a neural network with 4 classes of animals (elk, raven, bald eagle and raccoon).
 A link to this dataset can be found
 
-$\href{https://drive.google.com/file/d/1AdJ0sGSwVrdtskKj27cjf1Q5Vi0zfP0Y/view}{here}$ .
-$\binom{3}{4}$
+$\href{https://www.wikibooks.org}{Wikibooks home}$
+
