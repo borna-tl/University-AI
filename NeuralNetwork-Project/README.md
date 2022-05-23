@@ -1,6 +1,7 @@
 <h1> NeuralNetwork Project </h1>
 This project is all about neural networks and it's done in two parts.
 
+
 In the first phase, we implement a Feed Forward Neural Network from scratch, using the NumPy library and then we'll use that to train multiple neural networks
 and examine the effect of different parameters in the learning process. The dataset used here is the *Cifar-10* dataset 
 (for simplicity, only the cats and horses classes are used).
